@@ -1,5 +1,21 @@
-# 💫 About Me:
-🚀 I’m currently working on<br>Ideas about sustainable development and open source contribution.<br><br>🌱 I’m currently learning<br>Web Development and Data Science.<br><br>🛠️ I’m looking to collaborate on<br>Projects that combine technology with real-world problem-solving, such as sustainability, sign language detection, and open-source platforms.<br><br>🤝 I’m looking for help with<br>Exploring innovative solutions for projects like live ISL detection, AI-powered tools, and platforms like GnanaVedhika for knowledge sharing.<br><br>💬 Ask me about<br>Hackathons and ideas for sustainable technology solutions.<br><br>⚡ Fun fact<br>I believe that determination and curiosity can help anyone turn ideas into impactful projects.
+🚀 I’m currently working on
+Youlearn – a web-based app integrating Google Maps API into e-bike consoles, plus exploring automation and no-code solutions to amplify creativity.
+
+🌱 I’m currently learning
+Machine Learning, Web Development, and no-code platforms like Lovable and Bolt to streamline workflows and innovate faster.
+
+🛠️ I’m looking to collaborate on
+Projects blending tech with real-world impact—think automation tools, AI-driven platforms, or event-tech solutions like hackathon logistics systems.
+
+🤝 I’m looking for help with
+Pushing Youlearn forward, integrating cutting-edge APIs, and experimenting with AI-powered automation for accessible innovation.
+
+💬 Ask me about
+Hackathons, organizing tech events (puzzles, quizzes, discussions!), or how no-code tools can empower non-technical creators.
+
+⚡ Fun fact
+I’ve learned that a mix of grit, curiosity, and a good API can turn wild ideas into reality—let’s build something awesome together!
+Let me know if you'd like any tweaks!
 
 
 ## 🌐 Socials:
