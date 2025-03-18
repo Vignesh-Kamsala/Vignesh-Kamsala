@@ -1,5 +1,5 @@
 🚀 I’m currently working on
-Youlearn – a web-based app integrating Google Maps API into e-bike consoles, plus exploring automation and no-code solutions to amplify creativity.
+Youlearn – a web-based app and integrating Google Maps API into e-bike consoles, plus exploring automation and no-code solutions to amplify creativity.
 
 🌱 I’m currently learning
 Machine Learning, Web Development, and no-code platforms like Lovable and Bolt to streamline workflows and innovate faster.
